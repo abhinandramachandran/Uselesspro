@@ -2,7 +2,7 @@
 
 
 ## Basic Details
-### Team Name: Collaborative core
+### Team Name: Simply Useless
 
 
 ### Team Members
