@@ -1,4 +1,4 @@
-# [Simply Useless] 🎯
+# Simply Useless chatbot 🎯
 
 
 ## Basic Details
